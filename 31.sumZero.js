@@ -14,5 +14,6 @@ function sumZero (arr){
 }
 
 sumZero([-4, -3, -2, -1, 0, 1, 2, 3, 10])
+// in sorted array
 // to find the first two values added then the Sum is equal to Zero.
 // loop from the right and left. 
